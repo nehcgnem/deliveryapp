@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">+Bueno</string>
+    <string name="edit_message">Enter a whatever</string>
+    <string name="login">Login</string>
+    <string name="emailPlaceholder">name@example.com</string>
+    <string name="passwordPlaceholder">password</string>
+    <string name="loginText">Log In</string>
+    <string name="signUpText">Sign Up</string>
+    <string name="TOSfail">You must agree the Terms of Service to register.</string>
+    <string name="loginExpire">Session expired. Please login again.</string>
+    <string name="network_fail">Network error.</string>
+    <string name="internal_error">Server internal error. Please try again later.</string>
+    <string name="upload_success">Updated successfully.</string>
+    <!--payment-->
+    <string name="save">Save</string>
+    <string name="pay_with_this_card">Pay with this Card</string>
+    <string name="payment_content_description">Checkout</string>
+    <string name="addPayment">Add Payment Method</string>
+    <string name="save_with_server">Save this card for future purchases.</string>
+    <string name="title_activity_maps">Tracking</string>
+
+
+</resources>
